@@ -15,11 +15,11 @@ It is a command-line application that takes in user input to generate a logo and
 
 ## Installation
 
-Clone the repo @ https://github.com/brownKasey/SVG-Generator.
+Clone the repo @ git@github.com:brownKasey/SVG-Generator.git.
 
 ## Usage
 
-1st. Clone the repo @ https://github.com/brownKasey/SVG-Generator.
+1st. Clone the repo @ git@github.com:brownKasey/SVG-Generator.git.
 
 2nd. Open up the root of the folder in a terminal.
  
