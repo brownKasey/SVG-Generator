@@ -29,7 +29,9 @@ Clone the repo @ https://github.com/brownKasey/SVG-Generator.
 
 5th. Answer the prompts, then a logo.svg will be created!
 
-![Video Tutorial](https://drive.google.com/file/d/10nr5AKNJBzOOihTckAhY--281maHtjl8/view?usp=sharing)
+Video Tutorial:
+
+https://drive.google.com/file/d/10nr5AKNJBzOOihTckAhY--281maHtjl8/view?usp=sharing
 
 ## Credits
 
